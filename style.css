@@ -34,7 +34,21 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
-
+.div1{
+  font-size: 1.2em;
+  line-height: 1.1;
+  color: greenyellow;
+  text-align: center;
+  width: 100%; /* Added property */
+}
+.p1{
+  font-size: 1.2em;
+  line-height: 1.1;
+  color: greenyellow;
+  text-align: center; /* Added property */
+}
+  
+ 
 #app {
   max-width: 1280px;
   margin: 0 auto;
