@@ -1,7 +1,7 @@
 {
   "name": "githubpractice",
    "version": "0.0.0",
-   "homepage": "https://mybabb.github.io/githubpractice  /",
+   "homepage": "https://mybabb.github.io/githubpractice/",
   "private": true,
   "type": "module",
   "scripts": {
